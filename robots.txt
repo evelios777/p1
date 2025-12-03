@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://p88.tomreznick.com/sitemap.xml
